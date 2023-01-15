@@ -1,6 +1,6 @@
 # Material Symbols
 
-![fonts.google.com](assets/images/fonts.google.com.png)
+![fonts.google.com](https://raw.githubusercontent.com/rehmatsg/flutter_material_symbols/main/assets/images/fonts.google.com.png)
 Image Source: [material.io](https://material.io/blog/introducing-symbols)
 
 [![pub package](https://img.shields.io/pub/v/flutter_material_symbols.svg)](https://pub.dev/packages/flutter_material_symbols)
@@ -50,7 +50,7 @@ IconButton(
 
 This package also supports filled, outlined, and sharp icons, which can be used by adding the `filled`, `outlined`, or `sharp` suffix to the icon name:
 
-![Icon Styles](assets/images/icons.png)
+![Icon Styles](https://raw.githubusercontent.com/rehmatsg/flutter_material_symbols/main/assets/images/fonts.google.com.png)
 Image Source: [material.io](https://material.io/blog/introducing-symbols)
 
 ```dart
