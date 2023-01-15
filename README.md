@@ -50,7 +50,7 @@ IconButton(
 
 This package also supports filled, outlined, and sharp icons, which can be used by adding the `filled`, `outlined`, or `sharp` suffix to the icon name:
 
-![Icon Styles](https://raw.githubusercontent.com/rehmatsg/flutter_material_symbols/main/assets/images/fonts.google.com.png)
+![Icon Styles](https://raw.githubusercontent.com/rehmatsg/flutter_material_symbols/main/assets/images/icons.png)
 Image Source: [material.io](https://material.io/blog/introducing-symbols)
 
 ```dart
