@@ -8,3 +8,7 @@
 ## 0.0.2
 
 * Fixed issues which caused the font to not be loaded properly.
+
+## 0.0.3
+
+* Updated README.md
