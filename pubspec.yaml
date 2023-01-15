@@ -1,0 +1,24 @@
+name: flutter_material_symbols
+description: A Flutter package that provides a set of Material Symbols icons.
+version: 0.0.1
+homepage: https://devflow.studio
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  fonts:
+    - family: Material Symbols
+      fonts:
+        - asset: lib/fonts/material_symbols_regular.ttf
