@@ -7,7 +7,7 @@ import 'package:flutter/widgets.dart';
 @immutable
 class _MaterialSymbolsData extends IconData {
 
-  const _MaterialSymbolsData(int codePoint, this.name) : super(codePoint, fontFamily: 'MaterialSymbols');
+  const _MaterialSymbolsData(int codePoint, this.name) : super(codePoint, fontFamily: 'Material Symbols', fontPackage: 'flutter_material_symbols');
   final String name;
 
 }

@@ -1,7 +1,10 @@
 name: flutter_material_symbols
 description: A Flutter package that provides a set of Material Symbols icons.
-version: 0.0.1
+version: 0.0.2
 homepage: https://devflow.studio
+repository: https://github.com/rehmatsg/flutter_material_symbols
+issue_tracker: https://github.com/rehmatsg/flutter_material_symbols/issues
+documentation: https://github.com/rehmatsg/flutter_material_symbols/
 
 environment:
   sdk: '>=2.18.6 <3.0.0'
